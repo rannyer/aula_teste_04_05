@@ -1,3 +1,5 @@
+package integration_test;
+
 import org.example.Pedido;
 import org.example.PedidoService;
 import org.example.Produto;
